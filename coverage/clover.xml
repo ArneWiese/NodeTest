@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1685741495376" clover="3.2.0">
-  <project timestamp="1685741495376" name="All files">
+<coverage generated="1685893226105" clover="3.2.0">
+  <project timestamp="1685893226105" name="All files">
     <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="18" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
     <file name="app.js" path="/Users/arnewiese/Developer/MeineProjekte/Full-Stack/NodeTest/src/app.js">
       <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
